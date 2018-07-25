@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/docdock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/docuapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hyde" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hyde-hyde" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/kraiklyn" vcs="Git" />
+  </component>
+</project>

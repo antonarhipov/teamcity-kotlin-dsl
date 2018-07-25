@@ -1,0 +1,46 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Kotlin DSL for TeamCity"
+theme = "docdock"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableMissingTranslationPlaceholders = false
+
+
+[params]
+editURL = "https://github.com/antonarhipov/teamcity-kotlin-dsl/edit/master/content/"
+showVisitedLinks = true # default is false
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = false # default is false
+disableSearch = false # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+pre = "<h3>More</h3>"
+name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+identifier = "ds"
+url = "https://github.com/antonarhipov/teamcity-kotlin-dsl"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-bookmark'></i> <label>TeamCity Documentation</label>"
+identifier = "TeamCityDoc"
+url = "https://confluence.jetbrains.com/display/TCDL/TeamCity+Documentation"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-bullhorn'></i> <label>TeamCity Kotlin DSL</label>"
+url = "https://confluence.jetbrains.com/display/TCDL/Kotlin+DSL"
+weight = 30

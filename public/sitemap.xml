@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/posts/project/</loc>
+    <lastmod>2018-07-11T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/01_getting_started/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/build/</loc>
+    <lastmod>2018-07-11T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/02_advanced_topics/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/project/02_vcs_root/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/03_faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/project/03_parameters/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/project/05_artifact_storage/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/project/04_cleanup/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/build/08_agent_requirements/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/build/05_build_features/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/build/01_vcs_settings/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/build/02_build_steps/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/build/06_dependencies/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/build/04_failure_conditions/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/build/07_parameters/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/build/03_triggers/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-07-17T10:21:28+03:00</lastmod>
+  </url>
+  
+</urlset>

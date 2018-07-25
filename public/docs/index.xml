@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Kotlin DSL for TeamCity</title>
+    <link>/docs/</link>
+    <description>Recent content in Documentation on Kotlin DSL for TeamCity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started</title>
+      <link>/docs/01_getting_started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/01_getting_started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Topics</title>
+      <link>/docs/02_advanced_topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/02_advanced_topics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ and Common Problems</title>
+      <link>/docs/03_faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/03_faq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
