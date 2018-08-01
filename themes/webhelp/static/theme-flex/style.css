@@ -318,7 +318,7 @@ article section.page {
   article section.page h1:first-of-type {
     margin: 3rem 0rem;
     font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
-    text-align: center;
+    text-align: left;
     /*text-transform: uppercase;*/
     color: #060606;
     font-weight: 700;
