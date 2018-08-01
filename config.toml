@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Kotlin DSL for TeamCity"
-theme = "docdock"
+theme = ["webhelp","docdock"]
 
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
