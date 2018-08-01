@@ -44,14 +44,14 @@ header {
   right: 0;
   top: 0;
   z-index: 100; }
-  header:after {
-    background: url(ribbon.png) 0 0/100% no-repeat;
-    content: '';
-    height: .35rem;
-    left: 0;
-    position: absolute;
-    right: 0;
-    top: 100%; }
+  /*header:after {*/
+    /*background: url(ribbon.png) 0 0/100% no-repeat;*/
+    /*content: '';*/
+    /*height: .35rem;*/
+    /*left: 0;*/
+    /*position: absolute;*/
+    /*right: 0;*/
+    /*top: 100%; }*/
   header a {
     text-decoration: none; }
   header .logo {
@@ -78,7 +78,8 @@ header {
     header nav.shortcuts li a:active,
     header nav.shortcuts li a:focus,
     header nav.shortcuts li a:hover {
-      background-color: #4d4d4d; }
+      background-color: #4d4d4d;
+    }
     header nav.shortcuts li a {
       -webkit-box-align: center;
       -ms-flex-align: center;
@@ -125,7 +126,7 @@ article > aside {
     article > aside .menu .dd-item {
       padding-left: 1rem;
       list-style: none;
-      font-size: 13px; }
+      font-size: 14px; }
       article > aside .menu .dd-item.alwaysopen > ul {
         display: block; }
       article > aside .menu .dd-item.parent > ul {
@@ -161,9 +162,10 @@ article > aside {
           padding: 0 0rem;
           text-decoration: none; }
           article > aside .menu .dd-item div a:hover, article > aside .menu .dd-item div a:focus, article > aside .menu .dd-item div a:active {
-            background-color: #eee;
             border-radius: .2rem;
-            padding: 0 0rem; }
+            padding: 0 0rem;
+            text-decoration-line: underline;
+          }
         article > aside .menu .dd-item div i.category-icon:active,
         article > aside .menu .dd-item div i.category-icon:focus,
         article > aside .menu .dd-item div i.category-icon:hover {
@@ -266,7 +268,8 @@ section strong {
   padding: 1rem 0rem;
   display: flex;
   flex-direction: row;
-  align-items: stretch; }
+  align-items: stretch;
+  }
   #navigation a {
     width: 50%;
     flex: 1;
@@ -275,10 +278,11 @@ section strong {
     justify-content: flex-start;
     padding-right: 0px;
     align-items: baseline;
-    color: #e5e5e5; }
+    color: #161616;
+    cursor: auto;
+  }
     #navigation a i {
-      font-size: 4em;
-      margin: auto; }
+      margin: 0.5rem; }
     #navigation a label {
       margin: auto;
       flex-grow: 2;
