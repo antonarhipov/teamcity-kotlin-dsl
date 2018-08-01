@@ -109,7 +109,11 @@ article > aside {
   position: fixed;
   top: 3.5rem;
   width: 20rem;
-  overflow-y: auto; }
+  overflow-y: auto;
+  border-right-width: thin;
+  border-right-color: #f0f0f0;
+  border-right-style: solid;
+}
   article > aside .menu {
     line-height: 2.2rem;
     list-style-type: none; }
